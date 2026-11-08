@@ -15,7 +15,6 @@ Submission by **Soumyadeep Roy** for the Associate Software Developer role at Oy
 | Google Sheets output | [Soumyadeep_Oytra_Morning_Brief](https://docs.google.com/spreadsheets/d/1D_6R13k-R9c-26GUwOSC8IfPwDEfsaweuaUGWEmhaLE/edit) |
 | Bonus monitor | `workflows/Bonus_UptimeMonitor_Soumyadeep_Oytra.json` |
 | Bonus workflow screenshot | `screenshots/task2/Soumyadeep_Oytra_Bonus_UptimeMonitor_Workflow.png` |
-| Walkthrough guide | `docs/LOOM_WALKTHROUGH_Soumyadeep_Oytra.md` |
 
 ## Highlights
 
