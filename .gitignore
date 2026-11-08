@@ -1,0 +1,9 @@
+.DS_Store
+.n8n-local/
+node_modules
+tmp/
+artifacts/documents/rendered/
+artifacts/sheets/*.inspect.ndjson
+artifacts/sheets/*_preview.png
+screenshots/task2/Soumyadeep_Oytra_Output_5_Items.png
+screenshots/task2/Soumyadeep_Oytra_Workflow_Success.png
