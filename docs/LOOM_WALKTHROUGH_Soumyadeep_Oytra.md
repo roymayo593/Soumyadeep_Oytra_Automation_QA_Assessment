@@ -18,5 +18,4 @@ Explain that self-hosted n8n needs a Google OAuth client, so the submission uses
 
 ## 4:15–4:45 — Bonus and close
 
-Open `Bonus_UptimeMonitor_Soumyadeep_Oytra.json`. Explain the five-minute schedule, response-time capture, non-200 IF branch, 10-second wait, single retry, and Google Sheet alert. Close by pointing reviewers to the report, workflow JSON, screenshots, and setup README.
-
+Open `screenshots/task2/Soumyadeep_Oytra_Bonus_UptimeMonitor_Workflow.png`, then point to `Bonus_UptimeMonitor_Soumyadeep_Oytra.json`. Explain the five-minute schedule, response-time capture, non-200 IF branch, 10-second wait, single retry, and Google Sheet alert. Close by pointing reviewers to the report, workflow JSON, screenshots, and setup README.

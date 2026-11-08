@@ -14,6 +14,7 @@ Submission by **Soumyadeep Roy** for the Associate Software Developer role at Oy
 | Task 2 screenshots | `screenshots/task2/Soumyadeep_Oytra_Workflow_Logic.png` and `Soumyadeep_Oytra_Execution_Success.png` |
 | Google Sheets output | [Soumyadeep_Oytra_Morning_Brief](https://docs.google.com/spreadsheets/d/1D_6R13k-R9c-26GUwOSC8IfPwDEfsaweuaUGWEmhaLE/edit) |
 | Bonus monitor | `workflows/Bonus_UptimeMonitor_Soumyadeep_Oytra.json` |
+| Bonus workflow screenshot | `screenshots/task2/Soumyadeep_Oytra_Bonus_UptimeMonitor_Workflow.png` |
 | Walkthrough guide | `docs/LOOM_WALKTHROUGH_Soumyadeep_Oytra.md` |
 
 ## Highlights
@@ -27,4 +28,3 @@ Submission by **Soumyadeep Roy** for the Associate Software Developer role at Oy
 ## Repository safety
 
 The exported workflow contains no passwords, OAuth credentials, or writable production URL. Replace the documented Apps Script deployment placeholder locally before execution.
-
